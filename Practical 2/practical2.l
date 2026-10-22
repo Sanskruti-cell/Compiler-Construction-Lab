@@ -35,4 +35,3 @@ int yywrap()
     return 1;
 }
 
-/* Ritisha Naigaonkar, 24070521045, Batch-A2 */
